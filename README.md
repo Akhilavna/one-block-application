@@ -3,3 +3,20 @@ Designed and implemented an automated infrastructure provisioning and applicatio
 This project eliminates manual cloud configuration by enabling scalable, fault tolerant web server deployment through Infrastructure as Code.
 
 ---
+# Project Overview
+This system automatically provisions a production ready AWS environment and deploys a web application on EC2 instances.
+Terraform is used to create and manage infrastructure resources, while Ansible is used to configure the application environment and deploy source code on provisioned instances.
+
+---
+# Core Features
+Automated EC2 instance provisioning using Launch Templates
+Auto Scaling Group with dynamic instance management
+Elastic Load Balancer for traffic distribution
+Secure networking using Security Groups
+Remote Terraform backend with S3 versioning
+Automated Apache web server installation
+Git based application deployment using Ansible
+Infrastructure provisioning without AWS console interaction
+Scalable and highly available application hosting setup
+
+---
