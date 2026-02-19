@@ -20,3 +20,12 @@ Terraform is used to create and manage infrastructure resources, while Ansible i
 - Scalable and highly available application hosting setup
 
 ---
+# Tech Stack
+- Terraform
+- AWS EC2
+- AWS Auto Scaling
+- AWS Elastic Load Balancer
+- AWS S3
+- Ansible
+- Apache Web Server
+- Git
