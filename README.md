@@ -9,14 +9,14 @@ Terraform is used to create and manage infrastructure resources, while Ansible i
 
 ---
 # Core Features
--Automated EC2 instance provisioning using Launch Templates
--Auto Scaling Group with dynamic instance management
--Elastic Load Balancer for traffic distribution
--Secure networking using Security Groups
--Remote Terraform backend with S3 versioning
--Automated Apache web server installation
--Git based application deployment using Ansible
--Infrastructure provisioning without AWS console interaction
--Scalable and highly available application hosting setup
+- Automated EC2 instance provisioning using Launch Templates
+- Auto Scaling Group with dynamic instance management
+- Elastic Load Balancer for traffic distribution
+- Secure networking using Security Groups
+- Remote Terraform backend with S3 versioning
+- Automated Apache web server installation
+- Git based application deployment using Ansible
+- Infrastructure provisioning without AWS console interaction
+- Scalable and highly available application hosting setup
 
 ---
