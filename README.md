@@ -29,3 +29,6 @@ Terraform is used to create and manage infrastructure resources, while Ansible i
 - Ansible
 - Apache Web Server
 - Git
+---
+# Outcome
+Implemented a repeatable Infrastructure as Code pipeline capable of provisioning scalable AWS compute resources and automatically deploying application code across multiple instances with load balanced traffic handling.
